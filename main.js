@@ -129,7 +129,7 @@ client.on('ready', async () => {
       setTimeout(dankSlash,Math.floor(Math.random()*20000+10000))
    }
    async function dankSlash2(){
-       await r.send('owo flip 500')
+       await r.send('owo b')
        setTimeout(dankSlash2,Math.floor(Math.random()*20000+10000))
    }
    
